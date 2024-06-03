@@ -12,8 +12,8 @@ nav_order: 2
 **Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).
 
-tlherghwI' Quj 'oH **qerIn**'e'. 'oH QujmeH yap wa' 'ovwI', wa' **che'wI'** je. vabDot QujlaH 'ovwI' law'.
-tlherghwI'pu' Hen ghet 'ovwI'pu'. ngem HujDaq leng chaH. chuD Huj, qengHodmey luSo'lu'bogh, tlhapraghmey luDellu'bogh ngaS.
+tlherghwI' Quj 'oH **qerIn**'e'. 'oH QujmeH yap wa' QujwI', wa' **'oDwI'** je. vabDot QujlaH QujwI' law'.
+tlherghwI'pu' Hen ghet QujwI'pu'. ngem HujDaq leng chaH. chuD Huj, qengHodmey luSo'lu'bogh, tlhapraghmey luDellu'bogh ngaS.
 
 <details close markdown="block">
   <summary id="index">
@@ -28,8 +28,8 @@ tlherghwI'pu' Hen ghet 'ovwI'pu'. ngem HujDaq leng chaH. chuD Huj, qengHodmey lu
 
 **qerIn** qonlu'meH wontoymey'e' lulo'lu':
 
-### che'wI' may
-pabmey, ghu'mey, ghotpu', lutmey je DelDI' 'oDwI' may DanIs che'wI'.
+### 'oDwI' may
+pabmey, ghu'mey, ghotpu', lutmey je DelDI' 'oDwI' may DanIs 'oDwI'.
 
 ### Classless
 A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences define their specialty.
