@@ -58,22 +58,24 @@ Players trust one another to engage with the shared setting, character goals, an
 
 ## 'oDwI' qangtlhIn
 ### De'
-- Provide useful information about the game world as the characters explore it.
-- Players do not need to roll dice to learn about their circumstances.
-- Be helpful and direct with your answers to their questions.
-- Respond honestly, describe consistently, and always let them know they can keep asking questions.
+- tlharghtaHvIS ghotpu''e' SeHbogh QujwI', qo' De' lI' yInob.
+- ghu'chaj lughojmeH mI' nagh ronnISmoH QujwI'pu'.
+- yIvuy. nIghelDI' QujwI'pu' yIjang.
+- bIjangDI' yIyuDHa' 'ej yIchuH. reH ghellaH chaH 'e' yIQIj.
 
-### Difficulty
-- Default to context and realism rather than numbers and mechanics.
+### ghu' Qatlh
+<!---Very hard to translate "default to context and realism with no word for either. Loosely translates to "Think logically. The world is more important than numbers and rules.--->
+- yImeq. qo' potlh pabmey mI'mey je potlh puS.
 - If something the players want to do is sincerely impossible, no roll will allow them to do it.
-- Is what the player describes and how they leverage the situation sensible? Let it happen.
-- Saves cover a great deal of uncertain situations and are often all that is necessary for risky actions.
+- meq'a' QujwI', ghu' pan 'e' nID ghaH? qaS 'e' yIchaw'.
+- Hawchugh ghu', laH mI' rInmoH vay'. pIj yap.
 
-### Preparation
-- The game world is organic, malleable and random. It intuits and makes sharp turns.
-- Use random tables and generators to develop situations, not stories or plots.
+### nabmey
+- teHlaw' qo' 'ej 'oH bIchoHlaH 'ej Haw 'oH. yIghut 'ej qo' yI choHqu'.
+- ghu'mey DaqonmeH yIHawrup. tlhoy vuSlu' lut Daqon. wa'chaw' Haw lIngwI' yIlo'.
 - NPCs remember what the PCs say and do, and how they affect the world.
-- NPCs don't want to die. Infuse their own self-interest and will to live into every personality.
+- ghotpu''e' SeHbogh QujwI' 'e' qaw ghotpu''e' SeHbogh 'oDwI'. ta'DI' chaH, qawlu'. qo' qo' SIghDI', qawlu'.
+- Hegh neH ghotpu''e' SeHbogh 'oDwI'. chaHvaD vang Hoch 'e' yInab.
 
 ### Narrative Focus
 - Emergent experience of play is what matters, not math or character abilities. Give the players weapon trainers and personal quests to facilitate improvement and specialization.
