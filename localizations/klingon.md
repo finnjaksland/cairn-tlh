@@ -31,17 +31,18 @@ tlherghwI'pu' Hen ghet QujwI'pu'. ngem HujDaq leng chaH. chuD Huj, qengHodmey lu
 ### 'oDwI' may
 pabmey, ghu'mey, ghotpu', lutmey je DelDI' 'oDwI' may DanIs 'oDwI'.
 
-### Classless
-A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences define their specialty.
+### Qu'mey
+<!--- Translator's Notes: There is no word for class. Rephrased to "player characters can be aquainted with many duties. Because of their history and because of their equipment, they are skilled.--->
+Qu' law' batlhlaH ghotpu''e' SeHbogh QujwI'.  qunDajmo' luchDajmo' je po' ghaH.
 
-### Death
-Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
+### Hegh
+HoSlaH ghotpu' 'ach jubbe' neH je. Dat Hegh tu'lu' 'ach not Haw. Qobchugh maq tu'lu.
 
-### Fiction First
-Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are arbitrated by the Warden in dialogue with the players, based on in-world elements.
+### lut potlh law' Hoch potlh puS
+not qaDmey, qaDmey gher'IDmey ghap wuqchu' mI' naghmey. QujwI'pu'vaD rIch 'oDwI' 'ej Qap QujwI'pu' 'e' wuqmeH 'oDwI'. wuqmeH potlh lut ghu'.
 
-### Growth
-Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
+### Ser
+ghotpu''e' SeHbogh QujwI'pu' choH ta'mey. qaD Qapchugh chaH 'ej Qob SIQchugh chaH, latlh laHmey Suq 'ej po'choH.
 
 ### Player Choice
 Players should always understand the reasons behind the choices they've made, and information about potential risks should be provided freely and frequently.
