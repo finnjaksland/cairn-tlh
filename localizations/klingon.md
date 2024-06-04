@@ -73,8 +73,7 @@ Players trust one another to engage with the shared setting, character goals, an
 ### nabmey
 - teHlaw' qo' 'ej 'oH bIchoHlaH 'ej Haw 'oH. yIghut 'ej qo' yI choHqu'.
 - ghu'mey DaqonmeH yIHawrup. tlhoy vuSlu' lut Daqon. wa'chaw' Haw lIngwI' yIlo'.
-- NPCs remember what the PCs say and do, and how they affect the world.
-- ghotpu''e' SeHbogh QujwI' 'e' qaw ghotpu''e' SeHbogh 'oDwI'. ta'DI' chaH, qawlu'. qo' qo' SIghDI', qawlu'.
+- ghotpu''e' SeHbogh QujwI' 'e' qaw ghotpu''e' SeHbogh 'oDwI'. ta'DI' QujwI', qawlu'. qo' SIghDI' QujwI', qawlu'.
 - Hegh neH ghotpu''e' SeHbogh 'oDwI'. chaHvaD vang Hoch 'e' yInab.
 
 ### Narrative Focus
@@ -143,7 +142,7 @@ Players trust one another to engage with the shared setting, character goals, an
 [back to index](#index)
 <p></p>
 
-## Character Creation
+## ghot chenmoHwI'
 
 #### Name, Background & Traits
 First, choose or roll your PC’s **name** and **background** from their respective [tables](#name--background-d20). A PC’s background informs their potential knowledge and skills.
