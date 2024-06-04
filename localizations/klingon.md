@@ -76,10 +76,10 @@ Players trust one another to engage with the shared setting, character goals, an
 - ghotpu''e' SeHbogh QujwI' 'e' qaw ghotpu''e' SeHbogh 'oDwI'. ta'DI' QujwI', qawlu'. qo' SIghDI' QujwI', qawlu'.
 - Hegh neH ghotpu''e' SeHbogh 'oDwI'. chaHvaD vang Hoch 'e' yInab.
 
-### Narrative Focus
-- Emergent experience of play is what matters, not math or character abilities. Give the players weapon trainers and personal quests to facilitate improvement and specialization.
-- Pay attention to the needs and wants of the players, then put realistic opportunities in their path.
-- A dagger to your throat will kill you, regardless of your expensive armor and impressive training.
+### lut meq
+- potlhqu' lut'e' nabbe'bogh. lut potlh law' mI' laH ghap potlh puS. QujwI'pu'vaD nuH ghojmoHwI' Qu''a' je tInob. qeq chaH 'e' yIchaw' 'ej motlhbe'choH 'e' yIchaw'.
+- poQDI' QujwI'pu', tIqIm. ghIq 'ebmey'e' jonlaHbogh chaH tIpeS.
+- HughDajDaq taj 'uchlu'chugh DuHoHbej. potlhbe' laH SIryoD wagh ghap.
 
 ### Danger
 - The game world produces real risk of pain and death for the player characters.
