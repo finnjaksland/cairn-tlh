@@ -12,7 +12,7 @@ nav_order: 2
 **Cairn** is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 Peruse the [repo](https://github.com/yochaigal/cairn) or download the game in other [formats](https://drive.google.com/drive/u/0/folders/1dNGoSErZRApJr6R7mI3BAOhfkr4SOpPm) (including Word, Affinity, Google Docs, etc.).
 
-tlherghwI' Quj 'oH **qerIn**'e'. 'oH QujmeH yap wa' QujwI', wa' **'oDwI'** je. vabDot QujlaH QujwI' law'.
+tlharghwI' Quj 'oH **qerIn**'e'. 'oH QujmeH yap wa' QujwI', wa' **'oDwI'** je. vabDot QujlaH QujwI' law'.
 tlherghwI'pu' Hen ghet QujwI'pu'. ngem HujDaq leng chaH. chuD Huj, qengHodmey luSo'lu'bogh, tlhapraghmey luDellu'bogh ngaS.
 
 <details close markdown="block">
@@ -81,11 +81,12 @@ Players trust one another to engage with the shared setting, character goals, an
 - poQDI' QujwI'pu', tIqIm. ghIq 'ebmey'e' jonlaHbogh chaH tIpeS.
 - HughDajDaq taj 'uchlu'chugh DuHoHbej. potlhbe' laH SIryoD wagh ghap.
 
-### Danger
-- The game world produces real risk of pain and death for the player characters.
-- Telegraph serious danger to players when it is present. The more dangerous, the more obvious.
+### Qob
+- Qob qo'. ghaytan 'uy ghotpu''e' SeHbogh QujwI' 'ej rut Hegh.
+- Qobchugh ghu', Qob yIQIj. Qobqu'chugh, yIQIjchu'nIs.
 - Put traps in plain sight and let the players take time to figure out a solution.
-- Give players opportunities to solve problems and interact with the world.
+- vonmeH jan yISo'Qo'. lutu'nISlaH QujwI'pu' 'ej lupannISlaH.
+- ghu' panmeH QujwI'pu' 'ebmey tInob. qo' SIghmeH QujwI'pu' 'ebmey tInob.
 
 ### Treasure
 - A Treasure is specific to the environment from where it is recovered. It tells a story.
