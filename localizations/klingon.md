@@ -44,20 +44,20 @@ not qaDmey, qaDmey gher'IDmey ghap wuqchu' mI' naghmey. QujwI'pu'vaD rIch 'oDwI'
 ### Ser
 ghotpu''e' SeHbogh QujwI'pu' choH ta'mey. qaD Qapchugh chaH 'ej Qob SIQchugh chaH, latlh laHmey Suq 'ej po'choH.
 
-### Player Choice
-Players should always understand the reasons behind the choices they've made, and information about potential risks should be provided freely and frequently.
+### QujwI'pu' wIvmey
+reH wIvmeychaj mo' yaj QujwI'pu'. pIj QujwI'pu'vaD Qob DuH ghuHmoH 'oDwI'.
 
-### Principles
-The Warden and the players each have guidelines that help foster a specific play experience defined by critical thinking, exploration, and an emergent narrative.
+### qangtlhIn
+qangtlhIn lupab 'oDwI' QujwI'pu'mey. Quj tlhIn tungHa' qangtlhInvam. qaDmey yuq QujwI'pu' 'e' tungHa'. tlhargh QujwI'pu' 'e' tungHa'. lut nabbe' 'oDwI' 'e' tungHa'.
 
-### Shared Objectives
+### ngoQmey lInbogh QujwI'pu'
 Players trust one another to engage with the shared setting, character goals, and party challenges. Therefore, the party is typically working together towards a common goal, as a team.
 
 [back to index](#index)
 <p></p>
 
-## Principles for Wardens
-### Information
+## 'oDwI' qangtlhIn
+### De'
 - Provide useful information about the game world as the characters explore it.
 - Players do not need to roll dice to learn about their circumstances.
 - Be helpful and direct with your answers to their questions.
@@ -106,7 +106,7 @@ Players trust one another to engage with the shared setting, character goals, an
 [back to index](#index)
 <p></p>
 
-## Principles for Players
+## QujwI' qangtlhIn
 ### Agency
 - Attributes and related saves do not define your character. They are tools.
 - Don't ask only what your character would do, ask what you would do, too.
